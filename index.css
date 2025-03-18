@@ -1,5 +1,13 @@
 h1{
     color: 444;
-    font-size: 50px;
     text-align: center;
+}
+
+#정지인{
+    font-size: 50px;
+}
+
+
+#Computer{
+    font-size: 30px;
 }
