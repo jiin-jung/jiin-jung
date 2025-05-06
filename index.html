@@ -1,18 +1,21 @@
 <!DOCTYPE html>
-<html>
+<html lang="ko">
 <head>
-    <link rel="stylesheet" href="index.css">
-    <meta charset="UTF-8">
-    <title>About me</title>
-    
+  <meta charset="UTF-8">
+  <title>🌍 지진 정보 확인기</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>
-        <span id="정지인">정지인</span>
-        <p>202101644</p>
-        <span id="Information">Information Telecommunication Engineering</span>
-        <p>  </p>
-        <img src="https://i.namu.wiki/i/03aTW-4DUe0gtplGUBJbLTFr3eDB1-JJ-S3xN4eUsNuwC1qOqfjzxvJL8lbT6OqPkJBxWk-YobkWcw4ac8_HxA.webp">
-    </h1>
+  <h1>📡 실시간 지진 정보</h1>
+  <button id="load-quakes-btn">최근 지진 불러오기</button>
+  <section id="quake-container"></section>
+
+  <script src="index.js"></script>
+
+  <div id="legend">
+    <p><span class="dot green"></span> 약한 지진 (&lt; 4.0)</p>
+    <p><span class="dot yellow"></span> 중간 지진 (4.0 – 5.9)</p>
+    <p><span class="dot red"></span> 강한 지진 (&ge; 6.0)</p>
+  </div>  
 </body>
 </html>
