@@ -10,16 +10,16 @@
 새로운 기술을 배우는 것을 좋아하고, 팀 프로젝트 경험과 함께 꾸준히 개발 역량을 쌓고 있습니다.
 
 ---
-## Tech
 
----
+## 🛠️ Tech Stack
 
 [![Java](https://img.shields.io/badge/JAVA-FB7200?style=for-the-badge&logo=openjdk&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![Spring](https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
 
 [![MySQL](https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+[![MariaDB](https://img.shields.io/badge/MARIADB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](#)
 [![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white)](#)
 
 [![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
@@ -29,28 +29,28 @@
 [![IntelliJ IDEA](https://img.shields.io/badge/INTELLIJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](#)
 
 ---
----
 
 ## 🌱 Projects & Experiences
 
-### 아기사자 해커톤 : 커피 섭취량 조절 서비스 CoffeeLogging 백엔드 파트 담당
-- 간단 설명: 소비자들의 커피 섭취량을 직관적으로 표시해주어 커피 섭취량 조절을 도와주는 서비스
+### 아기사자 해커톤 : 커피 섭취량 조절 서비스 CoffeeLogging (백엔드)
+- 소비자들의 커피 섭취량을 직관적으로 표시, 섭취량 조절 지원 서비스
 - DB 연동 및 서버 배포 담당
 
-### 13기 멋쟁이사자 해커톤 : 청중이 직접 뽑은 아티스트와 지역 소극장을 연결해주는 서비스 ZANCHI 백엔드 파트 담당
-- 간단 설명: AI를 활용한 지역 경제 활성화를 위해 플랫폼을 직접 제작하였으며, 사용자들이 뽑은 top 10 아티스트들을 지역 내 소극장과 연결 및 예약 서비스를 제공합니다.
-- 예약 서비스 API 개발, AWS S3를 통한 동영상 객체 관리 및 영상 속도 향상 작업, 서버 배포, 머신러닝 구현을 통해 직접 가중치를 매겨 사용자 맞춤 알고리즘을 개발하였습니다.
+### 13기 멋쟁이사자 해커톤 : ZANCHI (백엔드)
+- AI 기반 지역 경제 활성화 플랫폼, 청중이 직접 뽑은 아티스트와 지역 소극장 연결 및 예약 서비스 제공
+- 예약 서비스 API 개발, AWS S3 기반 동영상 객체 관리 및 성능 개선, 서버 배포
+- 머신러닝을 활용해 사용자 맞춤 추천 알고리즘 개발
 
 ---
 
 ## 📫 Contact & Links
 
-- Email: cki08543@gmail.com
-- GitHub: [jiin-jung](https://github.com/jiin-jung)
-- Blog:
+- **Email:** cki08543@gmail.com
+- **GitHub:** [jiin-jung](https://github.com/jiin-jung)
+- **Blog:**
     - [Velog](https://velog.io/@jung_ji_in02/posts)
     - [Tistory](https://cki08543.tistory.com/)
-- Notion/Portfolio:
+- **Portfolio:**
     - [Notion](https://www.notion.so/263482bdb23e80c9ba48c43ace585c95)
 
 ---
