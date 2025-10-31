@@ -23,12 +23,13 @@
 ## 🌱 Projects & Experiences
 
 ### 아기사자 해커톤 : 커피 섭취량 조절 서비스 CoffeeLogging 백엔드 파트 담당
-- 간단 설명: 소비자들의 커피량을 직관적으로 표시해주어 커피량 조절을 도와주는 서비스
-- DB연동 및 서버 배포 담당
+- 간단 설명: 소비자들의 커피 섭취량을 직관적으로 표시해주어 커피 섭취량 조절을 도와주는 서비스
+- DB 연동 및 서버 배포 담당
 
-### 13기 멋쟁이 사자 해커톤 : 청중이 직접 뽑은 아티스트와 지역 소극장을 연결해주는 서비스 ZANCHI 백엔드 파트 담당
-- 간단 설명: AI를 활용한 지역 경제 활성화를 위해 직접 플랫폼을 제작 , 사용자들이 뽑은 top 10의 아티스트들을 지역 내의 소극장과 연결 및 예약 서비스 구현
-- 예약 서비스 API 및 AWS S3를 통한 동영상 객체 관리 및 영상 속도 향상, 머신러닝 구현을 통해 직접 가중치를 맥여 머신러닝을 통한 사용자 알고리즘 구축 및 서버 배포
+### 13기 멋쟁이사자 해커톤 : 청중이 직접 뽑은 아티스트와 지역 소극장을 연결해주는 서비스 ZANCHI 백엔드 파트 담당
+- 간단 설명: AI를 활용한 지역 경제 활성화를 위해 플랫폼을 직접 제작하였으며, 사용자들이 뽑은 top 10 아티스트들을 지역 내 소극장과 연결 및 예약 서비스를 제공합니다.
+- 예약 서비스 API 개발, AWS S3를 통한 동영상 객체 관리 및 영상 속도 향상 작업, 머신러닝 구현을 통해 직접 가중치를 매겨 사용자 맞춤 알고리즘을 개발하였습니다.
+
 ---
 
 ## 📫 Contact & Links
@@ -36,10 +37,10 @@
 - Email: cki08543@gmail.com
 - GitHub: [jiin-jung](https://github.com/jiin-jung)
 - Blog:
-    - [Velog] : [https://velog.io/@jung_ji_in02/posts](https://velog.io/@jung_ji_in02/posts)
-    - [Tstory] : [https://www.tistory.com/](https://cki08543.tistory.com/)
+    - [Velog](https://velog.io/@jung_ji_in02/posts)
+    - [Tistory](https://cki08543.tistory.com/)
 - Notion/Portfolio:
-    - [Notion] : [https://www.notion.com/ko](https://www.notion.so/263482bdb23e80c9ba48c43ace585c95)
+    - [Notion](https://www.notion.so/263482bdb23e80c9ba48c43ace585c95)
 
 ---
 
