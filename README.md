@@ -51,7 +51,7 @@
     - [Velog](https://velog.io/@jung_ji_in02/posts)
     - [Tistory](https://cki08543.tistory.com/)
 - **Portfolio:**
-    - [Notion](https://www.notion.so/263482bdb23e80c9ba48c43ace585c95)
+    - [Notion](https://www.notion.so/Dev-263482bdb23e80c9ba48c43ace585c95?source=copy_link)
 
 ---
 
