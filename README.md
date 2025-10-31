@@ -38,7 +38,8 @@
 - Blog:
     - [Velog] : [https://velog.io/@jung_ji_in02/posts](https://velog.io/@jung_ji_in02/posts)
     - [Tstory] : [https://www.tistory.com/](https://cki08543.tistory.com/)
-- Notion/Portfolio: (https://www.notion.so/263482bdb23e80c9ba48c43ace585c95)
+- Notion/Portfolio:
+    - [Notion] : [https://www.notion.com/ko](https://www.notion.so/263482bdb23e80c9ba48c43ace585c95)
 
 ---
 
