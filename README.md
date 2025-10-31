@@ -10,14 +10,25 @@
 새로운 기술을 배우는 것을 좋아하고, 팀 프로젝트 경험과 함께 꾸준히 개발 역량을 쌓고 있습니다.
 
 ---
+## Tech
 
-## ⚡ Tech Stack
+---
 
-- **Languages:** Java, Python, C++
-- **Frameworks:** Spring Boot
-- **DB:** MySQL, MariaDB
-- **Etc:** Git, Docker, AWS
+[![Java](https://img.shields.io/badge/JAVA-FB7200?style=for-the-badge&logo=openjdk&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Spring](https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
 
+[![MySQL](https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+[![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white)](#)
+
+[![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![Amazon AWS](https://img.shields.io/badge/AMAZON%20AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
+[![GitHub Actions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](#)
+
+[![IntelliJ IDEA](https://img.shields.io/badge/INTELLIJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](#)
+
+---
 ---
 
 ## 🌱 Projects & Experiences
