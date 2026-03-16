@@ -12,7 +12,7 @@
 
 ## 🚀 Experiences & Groups
 
-### 🦁 멋쟁이사자처럼 (LikeLion) @INU
+### 멋쟁이사자처럼 🦁 (LikeLion) @INU 
 - **14기 부회장 & 백엔드 파트장:** 전체 커리큘럼 설계 및 운영, 해커톤 기획, 백엔드 팀원 기술 멘토링 담당
 - **13기 백엔드 개발자:** 아기사자 및 중앙 해커톤 참여, Spring Boot 기반의 탄탄한 서버 설계 역량 확보
 
@@ -35,7 +35,7 @@
 
 ## 🌱 Projects
 
-### ⚽ K-리그 데이터 분석 서비스: KBTI (Backend Lead)
+### K-리그 데이터 분석 서비스: KBTI (Backend Lead)
 - 사용자 성향 설문을 바탕으로 구단 및 선수 매칭 서비스 제공
 - 데이터 기반 맞춤형 추천 로직 및 선수 퍼포먼스 메트릭 개발 (Java/Spring Boot)
 
@@ -50,10 +50,10 @@
 ---
 
 ## 🐾 My Git Animal
-지인의 커밋 활동에 따라 성장하는 프로필 카드입니다.
 
-![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiin-jung&theme=monokai)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jiin-jung&theme=react-dark)
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/jiin-jung" alt="GitAnimals Farm" />
+</a>
 
 ---
 
