@@ -16,7 +16,7 @@
 - **14기 부회장 & 백엔드 파트장:** 전체 커리큘럼 설계 및 운영, 해커톤 기획, 백엔드 팀원 기술 멘토링 담당
 - **13기 백엔드 개발자:** 아기사자 및 중앙 해커톤 참여, Spring Boot 기반의 탄탄한 서버 설계 역량 확보
 
-### [인천대학교 창업 동아리 "횃불이 유괴단"](https://github.com/jiin-jung) (Core Developer)
+### [인천대학교 창업 동아리 "횃불이 유괴단"](https://github.com/jiin-jung) (Backend Developer)
 - **Trend-Driven Development:** 시장의 흐름을 빠르게 캐치하여 MVP를 설계하고 개발하는 창업 중심 팀
 - 기술적 제약에 갇히지 않고 사용자 경험을 극대화할 수 있는 최적의 스택을 고민하고 적용합니다.
 
