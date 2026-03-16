@@ -10,6 +10,12 @@
 
 ---
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{jiin-jung}"/>
+</a>
+
+---
+
 ## 🚀 Experiences & Groups
 
 ### 멋쟁이사자처럼 🦁 (LikeLion) @INU 
@@ -46,14 +52,6 @@
 ### 13기 멋쟁이사자 해커톤 : ZANCHI (Backend)
 - AI 기반 지역 경제 활성화 플랫폼 (아티스트와 소극장 연결 및 예약 서비스)
 - AWS S3 기반 미디어 관리 및 성능 개선, 추천 알고리즘 개발
-
----
-
-## 🐾 My Git Animal
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/jiin-jung" alt="GitAnimals Farm" />
-</a>
 
 ---
 
