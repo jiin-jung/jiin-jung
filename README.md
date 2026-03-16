@@ -6,10 +6,6 @@
 단순한 코딩을 넘어, AI와 백엔드 기술의 시너지를 연구하며 트렌드를 빠르게 서비스에 녹여내고 싶습니다. 팀의 성장을 돕는 리더십과 실생활의 문제를 기술로 해결하는 실행력을 갖추고 있습니다.
 
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/jiin-jung" />
-</a>
-
 ## Experiences & Groups
 
 ### [멋쟁이사자처럼(LikeLion) @INU](https://github.com/LikeLion-INU)
@@ -37,6 +33,10 @@
 - **[OCR Laundry Guide](https://github.com/jiin-jung)** - OCR 기술 활용 세탁 기호 인식 및 가이드 서비스
 
 ## Contact & Links
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/jiin-jung" />
+</a>
 
 - **Email:** cki08543@gmail.com
 - **GitHub:** [jiin-jung](https://github.com/jiin-jung)
