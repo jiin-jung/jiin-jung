@@ -6,13 +6,13 @@
 열정을 가지고 성장하는 **백엔드 개발자 정지인**입니다.  
 단순한 코딩을 넘어, AI와 백엔드 기술의 시너지를 연구하며 트렌드를 빠르게 서비스에 녹여내는 것을 즐깁니다. 팀의 성장을 돕는 리더십과 실생활의 문제를 기술로 해결하는 실행력을 갖추고 있습니다.
 
----
+<hr>
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{jiin-jung}"/>
 </a>
 
----
+<hr>
 
 ## Experiences & Groups
 
@@ -24,7 +24,7 @@
 - **Trend-Driven Development:** 시장의 흐름을 빠르게 캐치하여 MVP(Minimum Viable Product)를 설계하고 개발하는 창업 중심 팀
 - 기술적 제약에 갇히지 않고 사용자 경험을 극대화할 수 있는 최적의 스택을 고민하고 적용합니다.
 
----
+<hr>
 
 ## Tech Stack
 
@@ -35,7 +35,7 @@
 [![Amazon AWS](https://img.shields.io/badge/AMAZON%20AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
 [![GitHub Actions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](#)
 
----
+<hr>
 
 ## Projects
 
@@ -44,7 +44,7 @@
 - **[ZANCHI](https://github.com/jiin-jung/ZANCHI)** - AI 기반 지역 경제 활성화 플랫폼 (예약 API 및 추천 로직)
 - **[OCR Laundry Guide](https://github.com/jiin-jung)** - OCR 기술 활용 세탁 기호 인식 및 가이드 서비스
 
----
+<hr>
 
 ## Contact & Links
 
