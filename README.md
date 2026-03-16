@@ -1,10 +1,8 @@
 # 백엔드 개발자 정지인
 
-**인천대학교 멋쟁이사자처럼 14기 부회장 & 백엔드 파트장** **창업 동아리 [횃불이 유괴단] Core Developer** @LikeLion-INU 소속
+**인천대학교 멋쟁이사자처럼 14기 부회장 & 백엔드 파트장** 
+**창업 동아리 횃불이 유괴단 Backend Developer** @LikeLion-INU 소속
 
----
-
-## 🧑‍💻 About Me
 열정을 가지고 성장하는 **백엔드 개발자 정지인**입니다.  
 단순한 코딩을 넘어, AI와 백엔드 기술의 시너지를 연구하며 트렌드를 빠르게 서비스에 녹여내는 것을 즐깁니다. 팀의 성장을 돕는 리더십과 실생활의 문제를 기술로 해결하는 실행력을 갖추고 있습니다.
 
@@ -41,24 +39,10 @@
 
 ## Projects
 
-### K-리그 데이터 분석 서비스: KBTI (Backend Lead)
-- 사용자 성향 설문을 바탕으로 구단 및 선수 매칭 서비스 제공
-- 데이터 기반 맞춤형 추천 로직 및 선수 퍼포먼스 메트릭 개발 (Java/Spring Boot)
-<https://github.com/jiin-jung/team_kbti>
-
-### OCR 기반 세탁 기호 가이드: 뽀송이 (Backend)
-- Computer Vision 및 OCR 기술을 활용해 의류 라벨을 인식하고 최적의 세탁법을 제안
-- 실생활의 불편함을 AI 기술로 해결하는 트렌드 중심의 문제 해결 프로젝트
-<https://github.com/kpd4444/BBOSONG-SERVER>
-
-### AI 기반 지역 경제 활성화 플렛폼: ZANCHI (Backend)
-- Redis를 활용한 로그인 설계
-- AWS S3 기반 미디어 관리 및 성능 개선, 추천 알고리즘 개발
-<https://github.com/kpd4444/zanchi-backend>
-
-### CoffeeLogging - 커피 소비/섭취 관리 시스템
-- Jwt 토큰을 활용한 회원가입, 커피 섭취 목표 설정 및 진도 추적 API 설계
-<https://github.com/jiin-jung/Baby-hackathon-backend/tree/main>
+- **[KBTI](https://github.com/jiin-jung/KBTI)** - K-리그 데이터 분석 및 선수 매칭 서비스 (백엔드 팀장)
+- **[CoffeeLogging](https://github.com/jiin-jung/CoffeeLogging)** - 소비자 커피 섭취량 조절 지원 서비스
+- **[ZANCHI](https://github.com/jiin-jung/ZANCHI)** - AI 기반 지역 경제 활성화 플랫폼 (예약 API 및 추천 로직)
+- **[OCR Laundry Guide](https://github.com/jiin-jung)** - OCR 기술 활용 세탁 기호 인식 및 가이드 서비스
 
 ---
 
