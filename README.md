@@ -1,45 +1,59 @@
 # 👋 Hi there, I'm 정지인!
 
-**인천대학교 멋쟁이사자 13기 백엔드 개발자, 14기 부회장**  
-@LikeLion-INU 소속
+**인천대학교 멋쟁이사자처럼 14기 부회장 & 백엔드 파트장** **창업 동아리 [횃불이 유괴단] Core Developer** @LikeLion-INU 소속
 
 ---
 
 ## 🧑‍💻 About Me
-열정을 가지고 성장하는 백엔드 개발자입니다.  
-새로운 기술을 배우는 것을 좋아하고, 팀 프로젝트 경험과 함께 꾸준히 개발 역량을 쌓고 있습니다.
+열정을 가지고 성장하는 **백엔드 개발자 정지인**입니다.  
+단순한 코딩을 넘어, 최신 **M4 Pro MacBook** 환경에서 AI와 백엔드 기술의 시너지를 연구하며 트렌드를 빠르게 서비스에 녹여내는 것을 즐깁니다. 팀의 성장을 돕는 리더십과 실생활의 문제를 기술로 해결하는 실행력을 갖추고 있습니다.
+
+---
+
+## 🚀 Experiences & Groups
+
+### 🦁 멋쟁이사자처럼 (LikeLion) @INU
+- **14기 부회장 & 백엔드 파트장:** 전체 커리큘럼 설계 및 운영, 해커톤 기획, 백엔드 팀원 기술 멘토링 담당
+- **13기 백엔드 개발자:** 아기사자 및 중앙 해커톤 참여, Spring Boot 기반의 탄탄한 서버 설계 역량 확보
+
+### 인천대학교 창업 동아리 "횃불이 유괴단" (Core Developer)
+- **Trend-Driven Development:** 시장의 흐름을 빠르게 캐치하여 MVP(Minimum Viable Product)를 설계하고 개발하는 창업 중심 팀
+- 기술적 제약에 갇히지 않고 사용자 경험을 극대화할 수 있는 최적의 스택을 고민하고 적용합니다.
 
 ---
 
 ## 🛠️ Tech Stack
 
 [![Java](https://img.shields.io/badge/JAVA-FB7200?style=for-the-badge&logo=openjdk&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![Spring](https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
-
 [![MySQL](https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![MariaDB](https://img.shields.io/badge/MARIADB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](#)
-[![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white)](#)
-
 [![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
 [![Amazon AWS](https://img.shields.io/badge/AMAZON%20AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
 [![GitHub Actions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](#)
 
-[![IntelliJ IDEA](https://img.shields.io/badge/INTELLIJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](#)
+---
+
+## 🌱 Projects
+
+### ⚽ K-리그 데이터 분석 서비스: KBTI (Backend Lead)
+- 사용자 성향 설문을 바탕으로 구단 및 선수 매칭 서비스 제공
+- 데이터 기반 맞춤형 추천 로직 및 선수 퍼포먼스 메트릭 개발 (Java/Spring Boot)
+
+### OCR 기반 세탁 기호 가이드 : 뽀송이 (Backend)
+- Computer Vision 및 OCR 기술을 활용해 의류 라벨을 인식하고 최적의 세탁법을 제안
+- 실생활의 불편함을 AI 기술로 해결하는 트렌드 중심의 문제 해결 프로젝트
+
+### 13기 멋쟁이사자 해커톤 : ZANCHI (Backend)
+- AI 기반 지역 경제 활성화 플랫폼 (아티스트와 소극장 연결 및 예약 서비스)
+- AWS S3 기반 미디어 관리 및 성능 개선, 추천 알고리즘 개발
 
 ---
 
-## 🌱 Projects & Experiences
+## 🐾 My Git Animal
+지인의 커밋 활동에 따라 성장하는 프로필 카드입니다.
 
-### 아기사자 해커톤 : 커피 섭취량 조절 서비스 CoffeeLogging (백엔드)
-- 소비자들의 커피 섭취량을 직관적으로 표시, 섭취량 조절 지원 서비스
-- DB 연동 및 서버 배포 담당
-
-### 13기 멋쟁이사자 해커톤 : ZANCHI (백엔드)
-- AI 기반 지역 경제 활성화 플랫폼, 청중이 직접 뽑은 아티스트와 지역 소극장 연결 및 예약 서비스 제공
-- 예약 서비스 API 개발, AWS S3 기반 동영상 객체 관리 및 성능 개선, 서버 배포
-- 머신러닝을 활용해 사용자 맞춤 추천 알고리즘 개발
+![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiin-jung&theme=monokai)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jiin-jung&theme=react-dark)
 
 ---
 
@@ -47,13 +61,9 @@
 
 - **Email:** cki08543@gmail.com
 - **GitHub:** [jiin-jung](https://github.com/jiin-jung)
-- **Blog:**
-    - [Velog](https://velog.io/@jung_ji_in02/posts)
-    - [Tistory](https://cki08543.tistory.com/)
-- **Portfolio:**
-    - [Notion](https://www.notion.so/Dev-263482bdb23e80c9ba48c43ace585c95?source=copy_link)
+- **Blog:** [Velog](https://velog.io/@jung_ji_in02/posts) | [Tistory](https://cki08543.tistory.com/)
+- **Portfolio:** [Notion Portfolio](https://www.notion.so/Dev-263482bdb23e80c9ba48c43ace585c95?source=copy_link)
 
 ---
 
-> 항상 배우고 성장하는 개발자가 되겠습니다.  
-> 감사합니다!
+> 항상 배우고 트렌드를 선도하는 개발자가 되겠습니다. 감사합니다!
