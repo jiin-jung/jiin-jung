@@ -27,7 +27,7 @@
 
 ## Projects
 
-- **[KBTI](https://github.com/jiin-jung/KBTI)** - K-리그 데이터 분석 및 선수 매칭 서비스 (백엔드 팀장)
+- **[KBTI](https://github.com/jiin-jung/team-kbti)** - K-리그 데이터 분석 및 선수 매칭 서비스 (백엔드 팀장)
 - **[Mohe?Meokji!](https://github.com/jiin-jung/mohe-meokji)** - 멀티모달 사물 인식 및 저장 냉장고 자동화 서비스 (1인 개발)
 - **[ZANCHI](https://github.com/jiin-jung/ZANCHI)** - AI 기반 지역 경제 활성화 플랫폼 (예약 API 및 추천 로직)
 - **[OCR Laundry Guide](https://github.com/jiin-jung)** - OCR 기술 활용 세탁 기호 인식 및 가이드 서비스
