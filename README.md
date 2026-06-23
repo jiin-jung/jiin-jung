@@ -1,10 +1,18 @@
-# 백엔드 개발자 정지인
+# ✨ *백엔드 개발자 정지인* ✨
 
 **인천대학교 멋쟁이사자처럼 14기 부회장 & 백엔드 파트장**
 
 열정을 가지고 성장하는 **백엔드 개발자 정지인**입니다.  
 단순한 코딩을 넘어, AI와 백엔드 기술의 시너지를 연구하며 트렌드를 빠르게 서비스에 녹여내고 싶습니다. 팀의 성장을 돕는 리더십과 실생활의 문제를 기술로 해결하고자 합니다.
 
+## 🎓 Experience & Social Activity
+
+| 소속 및 단계 | 활동 기간 | 내용 |
+|---|---|---|
+| 인천대학교 | 재학 중 | 정보통신공학과 재학 |
+| 멋쟁이사자처럼 | 2025.03 ~ 2026.02 | 멋쟁이사자처럼 13기 부원 |
+| 멋쟁이사자처럼 | 2026.02 ~ 2027.02 | 멋쟁이사자처럼 14기 운영진 |
+| 윗타 | 2026.03 ~ | 윗타 9기 활동 |
 
 ## Experiences & Groups
 
@@ -16,15 +24,15 @@
 - 시장의 흐름을 빠르게 캐치하여 MVP를 설계하고 개발하는 창업 중심 팀
 - 기술적 제약에 갇히지 않고 사용자 경험을 극대화할 수 있는 최적의 스택을 고민하고 적용.
 
-## Tech Stack
+## 💻 Languages & Frameworks
 
 | **Languages** | ![Java](https://img.shields.io/badge/JAVA-FB7200?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 |---|---|
-| **Backend** | ![Spring Boot](https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Spring MVC](https://img.shields.io/badge/SPRING%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/SPRING%20DATA%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MARIADB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![H2](https://img.shields.io/badge/H2-0092E4?style=for-the-badge&logo=h2&logoColor=white) |
-| **Infrastructure** | ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
-| **Tools** | ![IntelliJ IDEA](https://img.shields.io/badge/INTELLIJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white) ![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/SWAGGER-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) |
-| **Collaboration** | ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white) |
+| **⚙️ Backend** | ![Spring Boot](https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Spring MVC](https://img.shields.io/badge/SPRING%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/SPRING%20DATA%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white) |
+| **🗄️ Database** | ![MySQL](https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MARIADB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![H2](https://img.shields.io/badge/H2-0092E4?style=for-the-badge&logo=h2&logoColor=white) |
+| **☁️ Infrastructure** | ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
+| **🛠️ Tools** | ![IntelliJ IDEA](https://img.shields.io/badge/INTELLIJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white) ![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/SWAGGER-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) |
+| **🤝 Collaboration** | ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white) |
 
 ## 🚀 Featured Projects
 
@@ -55,7 +63,7 @@ AI 기반 지역 경제 활성화 플랫폼
 
 - **[KBTI](https://github.com/jiin-jung/team_kbti)** - K-리그 데이터 분석 및 선수 매칭 서비스 (백엔드 팀장)
 
-## Contact & Links
+## 📊 Contact & Links
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/jiin-jung" />
