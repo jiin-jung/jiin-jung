@@ -26,7 +26,7 @@
 
 ## 🚀 Featured Projects
 
-### 🧺 [세탁 메이트 뽀송이 (Laundry Guide)](https://github.com/kpd4444/bbosong-backend) - **졸업 작품**
+### 🧺 [세탁 메이트 뽀송이 (Laundry Guide)](https://github.com/kpd4444/bbosong-backend) -
 OCR 기술을 활용한 세탁 기호 자동 인식 및 맞춤 세탁 가이드 서비스
 - AI 기반 이미지 인식으로 세탁 기호 자동 분석
 - 사용자 친화적 세탁 정보 제공 플랫폼
