@@ -51,10 +51,6 @@ AI 기반 지역 경제 활성화 플랫폼
 - 예약 시스템 API 개발
 - **Tech:** Spring Boot, MySQL
 
-## _Other Projects_
-
-- **[KBTI](https://github.com/jiin-jung/team_kbti)** - K-리그 데이터 분석 및 선수 매칭 서비스 (백엔드 팀장)
-
 ## _📊 Contact & Links_
 
 <a href="https://github.com/devxb/gitanimals">
