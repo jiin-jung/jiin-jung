@@ -1,4 +1,4 @@
-# ✨ *JungJiIn - Backend Developer* ✨
+# ✨ *JungJiIn* ✨
 
 **인천대학교 멋쟁이사자처럼 14기 부회장 & 백엔드 파트장**
 
@@ -40,7 +40,7 @@ OCR 기술을 활용한 세탁 기호 자동 인식 및 맞춤 세탁 가이드 
 - 식재료 자동 인식 및 만료일 관리 시스템
 - **Tech:** Spring Boot, MySQL, Computer Vision
 
-### 🗺️ [YaGooMap (최신 프로젝트)](https://github.com/jiin-jung/yagoomap)
+### 🗺️ [YaGooMap (야구 틀어주는 술집 찾기 서비스)](https://github.com/jiin-jung/yagoomap)
 AI 기반 지역경제 활성화 및 정보 통합 플랫폼
 - 지역 정보 통합 및 경제 활성화 솔루션
 - **Tech:** Spring Boot, MySQL, AWS
