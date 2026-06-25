@@ -13,43 +13,44 @@
 |---|---|---|
 | 인천대학교 | 재학 중 | 정보통신공학과 재학 |
 | 멋쟁이사자처럼 | 2025.03 ~ 2026.02 | 멋쟁이사자처럼 13기 부원 |
-| 멋쟁이사자처럼 | 2026.02 ~ 2027.02 | 멋쟁이사자처럼 14기 부회장 |
-| 횃불이유괴단 | 2026.02 ~ 2027.02 | 창업 동아리 백엔드 담당 |
+| 멋쟁이사자처럼 | 2026.02 ~ 2027.02 | 멋쟁이사자처럼 14기 부회장 & 백엔드 파트장 |
+| 횃불이유괴단 | 2026.02 ~ 2027.02 | 창업 동아리 백엔드 개발 담당 |
 
 ## _💻 Languages & Frameworks_
 
-| **Languages** | ![Java](https://img.shields.io/badge/JAVA-FB7200?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| 분류 | 기술 스택 |
 |---|---|
+| **Languages** | ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/JAVA-FB7200?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 | **⚙️ Backend** | ![Spring Boot](https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Spring MVC](https://img.shields.io/badge/SPRING%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white) |
 | **🗄️ Database** | ![MySQL](https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MARIADB-003545?style=for-the-badge&logo=mariadb&logoColor=white) |
 | **☁️ Infrastructure** | ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 | **🛠️ Tools** | ![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/SWAGGER-85EA2D?style=for-the-badge&logo=swagger&logoColor=white) |
-| **🤝 Collaboration** | ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white) | &logoColor=white) ![Notion](https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white) |
+| **🤝 Collaboration** | ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white) |
 
 ## _🚀 Featured Projects_
 
 ### 🧺 [세탁 메이트 뽀송이 (Laundry Guide)](https://github.com/kpd4444/bbosong-backend)
 OCR 기술을 활용한 세탁 기호 자동 인식 및 맞춤 세탁 가이드 서비스
-- AI 기반 이미지 인식으로 세탁 기호 자동 분석
-- 사용자 친화적 세탁 정보 제공 플랫폼
-- **Tech:** Spring Boot, MySQL, AWS, Docker, GitHub Actions
+- AI 기반 이미지 인식 API 연동 및 세탁 기호 자동 분석 데이터 처리
+- 사용자 맞춤형 가이드 제공을 위한 RESTful API 설계
+- **Tech:** Spring Boot, MySQL, AWS EC2, Docker, GitHub Actions, OCR
 
 ### 🍳 [Mohe?Meokji! (냉장고 자동화 서비스)](https://github.com/jiin-jung/mohe-meokji)
-멀티모달 사물 인식 및 저장 냉장고 자동화 서비스
-- 1인 풀스택 개발로 완성한 AI 기반 냉장고 관리 플랫폼
-- 식재료 자동 인식 및 만료일 관리 시스템
-- **Tech:** Spring Boot, MySQL, Computer Vision
+멀티모달 사물 인식 기반의 냉장고 관리 및 식재료 자동화 서비스
+- Computer Vision 기술을 연동한 식재료 자동 인식 및 데이터베이스 동기화
+- 식재료 유통기한 만료일 알림 및 관리 백엔드 시스템 구축
+- **Tech:** Spring Boot, MySQL, Computer Vision API
 
 ### 🗺️ [YaGooMap (야구 틀어주는 술집 찾기 서비스)](https://github.com/jiin-jung/yagoomap)
-AI 기반 지역경제 활성화 및 정보 통합 플랫폼
-- 지역 정보 통합 및 경제 활성화 솔루션
+위치 기반 스포츠 중계 매장 정보 통합 플랫폼
+- 실시간 경기 일정 연동 및 야구 중계 매장 위치 정보 통합 솔루션
 - **Tech:** Spring Boot, MySQL, AWS
 
 ### 🤖 [ZANCHI (AI 추천 시스템)](https://github.com/kpd4444/zanchi-backend)
-AI 기반 지역 경제 활성화 플랫폼
-- 지능형 추천 알고리즘 구현
-- 예약 시스템 API 개발
-- **Tech:** Spring Boot, MySQL
+AI 기반 로컬 커머스 및 지역 경제 활성화 플랫폼
+- 사용자 성향 분석을 통한 지능형 추천 알고리즘 백엔드 구현
+- 실시간 예약 프로세스 및 안정적인 정산/예약 시스템 API 개발
+- **Tech:** Spring Boot, MySQL, Recommendation System
 
 ## _📊 Contact & Links_
 
@@ -62,4 +63,5 @@ AI 기반 지역 경제 활성화 플랫폼
 - **Blog:** [Velog](https://velog.io/@jung_ji_in02/posts) | [Tistory](https://cki08543.tistory.com/)
 - **Portfolio:** [Notion Portfolio](https://www.notion.so/Dev-263482bdb23e80c9ba48c43ace585c95?source=copy_link)
 
+---
 > 항상 배우고 트렌드를 선도하는 개발자가 되겠습니다. 감사합니다!
