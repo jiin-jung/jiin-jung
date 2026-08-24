@@ -1,67 +1,57 @@
-# ✨ *JungJiin* ✨
+# 정지인 | Backend Developer
 
 **인천대학교 멋쟁이사자처럼 14기 부회장 & 백엔드 파트장**
 
-열정을 가지고 성장하는 **백엔드 개발자 정지인**입니다.  
-단순한 코딩을 넘어, AI와 백엔드 기술의 시너지를 연구하며 트렌드를 빠르게 서비스에 녹여내고 싶습니다. 팀의 성장을 돕는 리더십과 실생활의 문제를 해결하는 개발을 지향합니다.
+Java와 Spring Boot를 기반으로, 기능 구현에서 끝나지 않고 실제 환경에서 측정하고 개선하는 백엔드 개발자를 지향합니다.
+
+AI API와 외부 API 연동, 모니터링·부하 테스트 프로젝트를 경험하며 서비스가 실제 환경에서도 안정적으로 동작하기 위한 방법을 고민해왔습니다. 새로운 사람들의 좋은 점을 배우고 제 것으로 만들며, 함께 성장하는 개발자가 되겠습니다.
 
 ---
 
-## _🎓 Experience & Social Activity_
+## Experience
 
-| 소속 및 단계 | 활동 기간 | 내용 |
+| 기간 | 소속 | 활동 |
 |---|---|---|
-| 인천대학교 | 재학 중 | 정보통신공학과 재학 |
-| 멋쟁이사자처럼 | 2025.03 ~ 2026.02 | 멋쟁이사자처럼 13기 부원 |
-| 멋쟁이사자처럼 | 2026.02 ~ 2027.02 | 멋쟁이사자처럼 14기 부회장 & 백엔드 파트장 |
-| 횃불이유괴단 | 2026.02 ~ 2027.02 | 창업 동아리 백엔드 개발 담당 |
+| 2026.02 ~ 현재 | 멋쟁이사자처럼 인천대학교 14기 | 부회장 & 백엔드 파트장 |
+| 2026.02 ~ 현재 | 횃불이유괴단 | 아이디어 검증 단계의 MVP 백엔드 개발 참여 |
+| 2025.03 ~ 2026.02 | 멋쟁이사자처럼 인천대학교 13기 | Backend Developer |
+| 2021.03 ~ 현재 | 인천대학교 | 정보통신공학과 전공 · 컴퓨터공학과 부전공 |
 
-## _💻 Languages & Frameworks_
+## Tech Stack
 
-| 분류 | 기술 스택 |
+| 분류 | 기술 |
 |---|---|
-| **Languages** | ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/JAVA-FB7200?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **⚙️ Backend** | ![Spring Boot](https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Spring MVC](https://img.shields.io/badge/SPRING%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white) |
-| **🗄️ Database** | ![MySQL](https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MARIADB-003545?style=for-the-badge&logo=mariadb&logoColor=white) |
-| **☁️ Infrastructure** | ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| **🛠️ Tools** | ![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/SWAGGER-85EA2D?style=for-the-badge&logo=swagger&logoColor=white) |
-| **🤝 Collaboration** | ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white) |
+| **Language** | ![Java](https://img.shields.io/badge/Java-FB7200?style=flat-square&logo=openjdk&logoColor=white) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) |
+| **Observability & Test** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white) |
+| **Environment** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
-## _🚀 Featured Projects_
+## Featured Projects
 
-### 🧺 [세탁 메이트 뽀송이 (Laundry Guide)](https://github.com/kpd4444/bbosong-backend)
-OCR 기술을 활용한 세탁 기호 자동 인식 및 맞춤 세탁 가이드 서비스
-- AI 기반 이미지 인식 API 연동 및 세탁 기호 자동 분석 데이터 처리
-- 사용자 맞춤형 가이드 제공을 위한 RESTful API 설계
-- **Tech:** Spring Boot, MySQL, AWS EC2, Docker, GitHub Actions, OCR
+### 🧺 [뽀송이 (AI Laundry)](https://www.bbosongi.com/)
 
-### 🍳 [Mohe?Meokji! (냉장고 자동화 서비스)](https://github.com/jiin-jung/mohe-meokji)
-멀티모달 사물 인식 기반의 냉장고 관리 및 식재료 자동화 서비스
-- Computer Vision 기술을 연동한 식재료 자동 인식 및 데이터베이스 동기화
-- 식재료 유통기한 만료일 알림 및 관리 백엔드 시스템 구축
-- **Tech:** Spring Boot, MySQL, Computer Vision API
+의류 이미지를 분석해 세탁 방법을 안내하는 AI 기반 세탁 관리 서비스
 
-### 🗺️ [YaGooMap (야구 틀어주는 술집 찾기 서비스)](https://github.com/jiin-jung/yagoomap)
-위치 기반 스포츠 중계 매장 정보 통합 플랫폼
-- 실시간 경기 일정 연동 및 야구 중계 매장 위치 정보 통합 솔루션
-- **Tech:** Spring Boot, MySQL, AWS
+- 카카오맵·날씨 API 연동 기능 및 Prometheus·Grafana 모니터링 환경 구축
+- k6 기반 baseline/load/stress/verify/accuracy 테스트를 구성해 동시 요청 병목 분석
+- 사람이 판독한 정답 JSON과 구조화된 `washRules`를 비교하는 정확도·안전성 테스트 구현
+- **로컬 검증:** 77개 중 76개 통과, API 오류 및 critical error 0건
+- **팀 성과:** 실제 서비스 의류 1,000개 평가에서 평균 정확도 93.0% → 98.5%
+- **Tech:** Java 21, Spring Boot 3.5.6, MySQL, Prometheus, Grafana, k6, Docker
+- [Backend Repository](https://github.com/kpd4444/bbosong-backend) · [Performance & Accuracy Test Notes](https://app.notion.com/p/3c6482bdb23e80baa521f6dc501fa635)
 
-### 🤖 [ZANCHI (AI 추천 시스템)](https://github.com/kpd4444/zanchi-backend)
-AI 기반 로컬 커머스 및 지역 경제 활성화 플랫폼
-- 사용자 성향 분석을 통한 지능형 추천 알고리즘 백엔드 구현
-- 실시간 예약 프로세스 및 안정적인 정산/예약 시스템 API 개발
-- **Tech:** Spring Boot, MySQL, Recommendation System
+### ⚾ [YaGooMap](https://xn--2e0bt1v52i.kr/)
 
-## _📊 Contact & Links_
+야구 중계 매장 정보를 검색하고 필터링하는 서비스
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/jiin-jung" />
-</a>
+- 크롤링 데이터를 백엔드에서 전달받아 검증하고 DB에 저장하는 파이프라인 구현
+- 저장된 매장 데이터 검색 및 조건별 필터링 구현
+- 다중 이미지 정렬과 태그 기반 검색 확장을 고려한 ERD 및 데이터 구조 설계
+- **Tech:** Java, Spring Boot, MySQL
 
-- **Email:** cki08543@gmail.com
-- **GitHub:** [jiin-jung](https://github.com/jiin-jung)
-- **Blog:** [Velog](https://velog.io/@jung_ji_in02/posts) | [Tistory](https://cki08543.tistory.com/)
-- **Portfolio:** [Notion Portfolio](https://www.notion.so/Dev-263482bdb23e80c9ba48c43ace585c95?source=copy_link)
+## Links
 
----
-> 항상 배우고 트렌드를 선도하는 개발자가 되겠습니다. 감사합니다!
+- **Email:** [cki08543@gmail.com](mailto:cki08543@gmail.com)
+- **Portfolio:** [Notion Portfolio](https://app.notion.com/p/29d482bdb23e8032bc54f3ee15c17241)
+- **Blog:** [Velog](https://velog.io/@jung_ji_in02/posts) · [Tistory](https://cki08543.tistory.com/)
