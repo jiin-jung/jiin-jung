@@ -49,6 +49,7 @@ AI API와 외부 API 연동, 모니터링·부하 테스트 프로젝트를 경�
 - 저장된 매장 데이터 검색 및 조건별 필터링 구현
 - 다중 이미지 정렬과 태그 기반 검색 확장을 고려한 ERD 및 데이터 구조 설계
 - **Tech:** Java, Spring Boot, MySQL
+- [Backend Repository](https://github.com/jiin-jung/yagoomap-backend)
 
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
