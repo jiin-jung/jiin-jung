@@ -50,8 +50,6 @@ AI API와 외부 API 연동, 모니터링·부하 테스트 프로젝트를 경�
 - 다중 이미지 정렬과 태그 기반 검색 확장을 고려한 ERD 및 데이터 구조 설계
 - **Tech:** Java, Spring Boot, MySQL
 
-## GitAnimals
-
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/jiin-jung" />
