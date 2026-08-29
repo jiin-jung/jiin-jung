@@ -39,7 +39,7 @@ AI API와 외부 API 연동, 모니터링·부하 테스트 프로젝트를 경�
 - **로컬 검증:** 77개 중 76개 통과, API 오류 및 critical error 0건
 - **팀 성과:** 실제 서비스 의류 1,000개 평가에서 평균 정확도 93.0% → 98.5%
 - **Tech:** Java 21, Spring Boot 3.5.6, MySQL, Prometheus, Grafana, k6, Docker
-- [Backend Repository](https://github.com/kpd4444/bbosong-backend) · [Performance & Accuracy Test Notes](https://app.notion.com/p/3c6482bdb23e80baa521f6dc501fa635)
+- [Backend Repository](https://github.com/kpd4444/bbosong-backend)
 
 ### ⚾ [YaGooMap](https://xn--2e0bt1v52i.kr/)
 
