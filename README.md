@@ -161,7 +161,6 @@ AI API 및 외부 API 연동, 인증·인가, 데이터 무결성, 모니터링,
 [![Email](https://img.shields.io/badge/Email-cki08543%40gmail.com-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:cki08543@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?style=flat-square\&logo=notion\&logoColor=white)](https://app.notion.com/p/29d482bdb23e8032bc54f3ee15c17241)
 [![Velog](https://img.shields.io/badge/Velog-jung__ji__in02-20C997?style=flat-square\&logo=velog\&logoColor=white)](https://velog.io/@jung_ji_in02/posts)
-[![Tistory](https://img.shields.io/badge/Tistory-Blog-000000?style=flat-square\&logo=tistory\&logoColor=white)](https://cki08543.tistory.com/)
 
 ---
 
