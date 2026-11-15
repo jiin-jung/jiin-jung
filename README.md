@@ -57,6 +57,7 @@ AI의 도움도 적극적으로 받고 있습니다. 다만 AI가 만들어준 �
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square\&logo=mariadb\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square\&logo=flyway\&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square\&logo=postgresql\&logoColor=white)
 
 ### Observability & Test
 
@@ -69,6 +70,8 @@ AI의 도움도 적극적으로 받고 있습니다. 다만 AI가 만들어준 �
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonwebservices\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
 
 ---
 
@@ -81,6 +84,7 @@ AI의 도움도 적극적으로 받고 있습니다. 다만 AI가 만들어준 �
 * 카카오맵·날씨 API 연동 및 Prometheus·Grafana 기반 모니터링 환경 구축
 * k6 기반 `baseline`, `load`, `stress`, `verify`, `accuracy` 테스트 구성
 * 동시 요청 환경에서 발생하는 병목 구간을 분석하고 서버 처리 안정성 검증
+* 분석 작업 중복 실행 방지·장기 미완료 작업 복구, 업로드 이미지 EXIF 제거·리사이즈 적용
 * 사람이 판독한 정답 JSON과 구조화된 `washRules`를 비교하는 정확도·안전성 테스트 구현
 * **로컬 검증:** 테스트 데이터 77건 중 76건 통과, API 오류 및 Critical Error 0건
 * **서비스 개선:** 실제 의류 1,000건 평가 기준 평균 정확도 **93.0% → 98.5%**
@@ -111,6 +115,7 @@ AI의 도움도 적극적으로 받고 있습니다. 다만 AI가 만들어준 �
 * 추천 인원과 최초 코드 사용 보너스를 기반으로 한 점수 및 공동 순위 로직 구현
 * `common`, `notification-service`, `event-entry-service` 기반 멀티모듈 구조 설계
 * Flyway 기반 DB 마이그레이션 및 H2 PostgreSQL 모드를 활용한 통합 테스트 구성
+* 사전 등록 유입 경로(`utm_source`) 저장 및 관리자 대시보드 집계 구현
 * 정상 등록, 중복 등록, 자기추천, 동시 추천, 관리자 권한, CSRF 등 주요 시나리오 검증
 * AWS SES·EventBridge Scheduler 기반 알림 및 이벤트 응모 기능 확장 예정
 
@@ -146,18 +151,17 @@ AI의 도움도 적극적으로 받고 있습니다. 다만 AI가 만들어준 �
 
 ---
 
-## Currently Building
+### [PickEat](https://www.pickeat.kr/)
 
-### [PickEat](https://github.com/INU-pickeat/pickeat-backend)
+> 고민 없는 맛집 선택 서비스 · 미디어디자인 졸업전시 협업
 
-> 음식점 탐색 경험을 개선하기 위해 개발 중인 서비스
-
-![Status](https://img.shields.io/badge/Status-Early%20Development-555555?style=flat-square)
-
-* **1인 백엔드 개발**로 Spring Boot 기반 서버 아키텍처 설계 및 개발 진행
-* PostgreSQL·JPA·Flyway 기반 데이터 계층 구성
-* Spring Security 기반 인증 구조 설계
-* Actuator·Prometheus를 활용한 모니터링 환경을 고려한 초기 프로젝트 구성
+* **1인 백엔드 개발**로 설계부터 운영 배포까지 전 과정 담당 (2026.10~ `api.pickeat.kr` 운영)
+* PostGIS `geography` + GiST 인덱스 기반 반경 후보 조회, DB 우선·부족 시 Google Places 보충하는 하이브리드 추천 구현
+* 동행 유형·가격대·주차·영업시간을 반영한 추천 점수 계산과 세션 기반 재추천(대체 후보) 구조 설계
+* 이메일 인증 회원가입, Refresh Token rotation(해시 저장) 기반 JWT 인증 구현
+* 후기·공개 피드·좋아요·알림, S3 presigned URL 기반 이미지 업로드 구현
+* GitHub Actions CI/CD로 EC2 배포, **헬스체크 실패 시 직전 릴리스 자동 롤백** 구성
+* 결정 소요 시간·Pick 전환율·후기 작성률을 집계하는 사용자 테스트용 관리자 대시보드 구현
 
 **Tech**
 
@@ -165,10 +169,42 @@ AI의 도움도 적극적으로 받고 있습니다. 다만 AI가 만들어준 �
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot%204.1.1-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square\&logo=springsecurity\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square\&logo=postgresql\&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square\&logo=flyway\&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square\&logo=prometheus\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonwebservices\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
 
 [Backend Repository](https://github.com/INU-pickeat/pickeat-backend)
+
+---
+
+## Currently Building
+
+### [Toggle, Me! (토글미)](https://github.com/ITTA-10th-Team1/toggle-me-backend)
+
+> 좋아하는 것들을 나만의 3D 방에 모으는 취향 아카이브 서비스 · 잇타 10기
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-555555?style=flat-square)
+
+* **백엔드 개발 (2인)**: 방·가구·아이템 기록·팔로우 도메인 설계 및 API 구현
+* 카카오 로그인 기반 JWT 인증(OAuth2 Resource Server) 구성
+* 프론트 3D 좌표(위치·쿼터니언·크기) 기반 가구 배치·방 커스터마이징 저장 API 구현
+* Spring AI + Gemini를 활용한 사진 기반 AI 추천 태그 분석, S3 이미지 업로드 구현
+* 온보딩 동시 호출 시 회원 행 잠금으로 중복 방 생성 방지
+* Docker Compose 운영 배포와 GitHub Actions CD 구성
+
+**Tech**
+
+![Java](https://img.shields.io/badge/Java%2021-FB7200?style=flat-square\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot%204.1.2-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square\&logo=springsecurity\&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square\&logo=spring\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square\&logo=flyway\&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square\&logo=amazons3\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+
+[Backend Repository](https://github.com/ITTA-10th-Team1/toggle-me-backend)
 
 ---
 
